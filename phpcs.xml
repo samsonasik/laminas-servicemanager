@@ -9,5 +9,4 @@
     <file>benchmarks</file>
 
     <exclude-pattern>test/log/</exclude-pattern>
-    <exclude-pattern>test/TestAsset/factories/SimpleDependencyObject.php</exclude-pattern>
 </ruleset>
